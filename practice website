@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Atemmpt at a Website</title>
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+<style>
+body {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaKR47mw5QNhh47uC6IY0YncC3aAbt2JlLAi7ctpUu8PE8xDnBog)
+}
+.top-title {
+font-family: Agency FB;
+color: red;
+text-size: 25px;
+background-color: black;
+text-align: center;
+}
+
+p {
+font-family: 'Josefin Sans', sans-serif;
+color
+</style>
+</head>
+<body>
+<h3>Author<h3>
+<p>Check Out My Youtube Channel</p>
+<a <img src=file:///C:/Users/335072989/Downloads/yt%20pic.png />
+<h1 class="top-title">So, I'm Just Testing What I Know</h1>
